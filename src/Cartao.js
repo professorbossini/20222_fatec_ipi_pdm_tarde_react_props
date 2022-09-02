@@ -12,6 +12,8 @@ const Cartao = (props) => {
   )
 }
 
+export default Cartao
+
 // <Cartao cabecalho="alguma coisa">
 //   <div className="">
 //     <p>oi</p>
